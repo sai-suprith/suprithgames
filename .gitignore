@@ -1,0 +1,18 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore distribution/build files
+build/
+dist/
+*.egg-info/
+
+# Ignore VSCode and OS-specific stuff
+.vscode/
+.DS_Store
+Thumbs.db
