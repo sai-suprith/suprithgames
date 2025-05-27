@@ -62,6 +62,10 @@ pip uninstall suprithgames.tictacsu
 🔗 GitHub: [https://github.com/sai-suprith](https://github.com/sai-suprith)
 
 ---
+## 🕹️ Live Demo
+
+You can play the game online here: [Play TicTacSu](https://replit.com/@Sai-Suprith/suprithgames)
+
 
 ## 🧠 License
 
