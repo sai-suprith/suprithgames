@@ -4,7 +4,7 @@ from .game import TicTacToe
 from .opponent import Opponent
 from .history import save_result, get_history, clear_history
 
-def play_game():
+def main():
     game = TicTacToe()
     opponent = Opponent()
     current_player = "X"  # Human
@@ -51,4 +51,4 @@ def play_game():
         print(line.strip())
 
 if __name__ == "__main__":
-    play_game()
+    main()
