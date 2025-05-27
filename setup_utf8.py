@@ -17,7 +17,7 @@ setup(
     python_requires='>=3.6',
     entry_points={
         'console_scripts': [
-            'tictacsu = suprithgames.tictacsu.cli:play_game',
+            'tictacsu = suprithgames.tictacsu.cli:main',
         ]
     },
     include_package_data=True,
